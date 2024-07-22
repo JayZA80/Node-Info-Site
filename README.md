@@ -1,0 +1,2 @@
+# Node Info Site
+A basic information site (template) to serve different html files to a client. Part of [The Odin Project's](https://www.theodinproject.com) Full-Stack JavaScript curriculum (Node.js chapter).
